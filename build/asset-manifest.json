@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SiddhPatel.github.io/static/css/main.3efab0ea.css",
-    "main.js": "/SiddhPatel.github.io/static/js/main.6f185d40.js",
+    "main.js": "/SiddhPatel.github.io/static/js/main.ff349da6.js",
     "static/css/64.03c68334.chunk.css": "/SiddhPatel.github.io/static/css/64.03c68334.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/SiddhPatel.github.io/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/SiddhPatel.github.io/static/css/769.b3cbb36b.chunk.css",
@@ -25,7 +25,7 @@
     "static/media/skill.svg": "/SiddhPatel.github.io/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/SiddhPatel.github.io/index.html",
     "main.3efab0ea.css.map": "/SiddhPatel.github.io/static/css/main.3efab0ea.css.map",
-    "main.6f185d40.js.map": "/SiddhPatel.github.io/static/js/main.6f185d40.js.map",
+    "main.ff349da6.js.map": "/SiddhPatel.github.io/static/js/main.ff349da6.js.map",
     "64.03c68334.chunk.css.map": "/SiddhPatel.github.io/static/css/64.03c68334.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/SiddhPatel.github.io/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/SiddhPatel.github.io/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.3efab0ea.css",
-    "static/js/main.6f185d40.js"
+    "static/js/main.ff349da6.js"
   ]
 }
